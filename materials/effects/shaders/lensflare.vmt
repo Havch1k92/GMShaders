@@ -1,0 +1,6 @@
+"LensFlare"
+{
+	$fbtexture 	"_rt_FullFrameFB"
+	$bloomtexture 	"_rt_SmallFB0"
+	$dirttexture 	"overlays/dust01"
+}
